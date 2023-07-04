@@ -7,3 +7,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=NachiketaJha/Python)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketaJha&theme=blue-green)
+
